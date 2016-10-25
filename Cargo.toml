@@ -1,0 +1,14 @@
+[package]
+name = "ninja"
+version = "0.0.1"
+authors = ["arcnmx"]
+
+description = "Ninja build file format generation"
+keywords = ["ninja", "build", "dag", "graph", "make"]
+
+documentation = "http://arcnmx.github.io/ninja-rs/ninja"
+repository = "https://github.com/arcnmx/ninja-rs"
+readme = "README.md"
+license = "MIT"
+
+[dependencies]
